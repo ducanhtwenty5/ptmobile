@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/reponsive.css" />
     <script src="main.js"></script>
+    <script src="dada.js"></script>
 </head>
 <body>
 <link rel="stylesheet" href="style.css" type="text/css">
